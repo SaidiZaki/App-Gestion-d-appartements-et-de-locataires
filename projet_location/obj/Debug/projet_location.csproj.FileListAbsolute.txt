@@ -1,0 +1,30 @@
+C:\Users\banco\source\repos\projet_location\projet_location\bin\Debug\projet_location.exe.config
+C:\Users\banco\source\repos\projet_location\projet_location\bin\Debug\projet_location.exe
+C:\Users\banco\source\repos\projet_location\projet_location\bin\Debug\projet_location.pdb
+C:\Users\banco\source\repos\projet_location\projet_location\obj\Debug\projet_location.csprojAssemblyReference.cache
+C:\Users\banco\source\repos\projet_location\projet_location\obj\Debug\projet_location.Form1.resources
+C:\Users\banco\source\repos\projet_location\projet_location\obj\Debug\projet_location.Properties.Resources.resources
+C:\Users\banco\source\repos\projet_location\projet_location\obj\Debug\projet_location.csproj.GenerateResource.cache
+C:\Users\banco\source\repos\projet_location\projet_location\obj\Debug\projet_location.csproj.CoreCompileInputs.cache
+C:\Users\banco\source\repos\projet_location\projet_location\obj\Debug\projet_location.exe
+C:\Users\banco\source\repos\projet_location\projet_location\obj\Debug\projet_location.pdb
+C:\Users\banco\source\repos\projet_location\projet_location\bin\Debug\Location.mdf
+C:\Users\banco\source\repos\projet_location\projet_location\bin\Debug\Location_log.ldf
+C:\Users\banco\source\repos\projet_location\projet_location\obj\Debug\projet_location.Locataire.resources
+C:\Users\banco\source\repos\projet_location\projet_location\obj\Debug\projet_location.Appartements.resources
+C:\Users\banco\source\repos\projet_location\projet_location\obj\Debug\projet_location.Bail.resources
+C:\Users\banco\Desktop\Analyste Programmeur\3em Session\4.A12_Programmation par Composant II\ProjetA12\Zaki_SAIDI_projet_location\projet_location\bin\Debug\Location.mdf
+C:\Users\banco\Desktop\Analyste Programmeur\3em Session\4.A12_Programmation par Composant II\ProjetA12\Zaki_SAIDI_projet_location\projet_location\bin\Debug\Location_log.ldf
+C:\Users\banco\Desktop\Analyste Programmeur\3em Session\4.A12_Programmation par Composant II\ProjetA12\Zaki_SAIDI_projet_location\projet_location\bin\Debug\projet_location.exe.config
+C:\Users\banco\Desktop\Analyste Programmeur\3em Session\4.A12_Programmation par Composant II\ProjetA12\Zaki_SAIDI_projet_location\projet_location\bin\Debug\projet_location.exe
+C:\Users\banco\Desktop\Analyste Programmeur\3em Session\4.A12_Programmation par Composant II\ProjetA12\Zaki_SAIDI_projet_location\projet_location\bin\Debug\projet_location.pdb
+C:\Users\banco\Desktop\Analyste Programmeur\3em Session\4.A12_Programmation par Composant II\ProjetA12\Zaki_SAIDI_projet_location\projet_location\obj\Debug\projet_location.csproj.AssemblyReference.cache
+C:\Users\banco\Desktop\Analyste Programmeur\3em Session\4.A12_Programmation par Composant II\ProjetA12\Zaki_SAIDI_projet_location\projet_location\obj\Debug\projet_location.Appartements.resources
+C:\Users\banco\Desktop\Analyste Programmeur\3em Session\4.A12_Programmation par Composant II\ProjetA12\Zaki_SAIDI_projet_location\projet_location\obj\Debug\projet_location.Bail.resources
+C:\Users\banco\Desktop\Analyste Programmeur\3em Session\4.A12_Programmation par Composant II\ProjetA12\Zaki_SAIDI_projet_location\projet_location\obj\Debug\projet_location.Form1.resources
+C:\Users\banco\Desktop\Analyste Programmeur\3em Session\4.A12_Programmation par Composant II\ProjetA12\Zaki_SAIDI_projet_location\projet_location\obj\Debug\projet_location.Locataire.resources
+C:\Users\banco\Desktop\Analyste Programmeur\3em Session\4.A12_Programmation par Composant II\ProjetA12\Zaki_SAIDI_projet_location\projet_location\obj\Debug\projet_location.Properties.Resources.resources
+C:\Users\banco\Desktop\Analyste Programmeur\3em Session\4.A12_Programmation par Composant II\ProjetA12\Zaki_SAIDI_projet_location\projet_location\obj\Debug\projet_location.csproj.GenerateResource.cache
+C:\Users\banco\Desktop\Analyste Programmeur\3em Session\4.A12_Programmation par Composant II\ProjetA12\Zaki_SAIDI_projet_location\projet_location\obj\Debug\projet_location.csproj.CoreCompileInputs.cache
+C:\Users\banco\Desktop\Analyste Programmeur\3em Session\4.A12_Programmation par Composant II\ProjetA12\Zaki_SAIDI_projet_location\projet_location\obj\Debug\projet_location.exe
+C:\Users\banco\Desktop\Analyste Programmeur\3em Session\4.A12_Programmation par Composant II\ProjetA12\Zaki_SAIDI_projet_location\projet_location\obj\Debug\projet_location.pdb
